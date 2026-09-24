@@ -44,3 +44,16 @@ Sistema Back-End desenvolvido em **Python e MySQL**, criado para aplicar na prá
 **Status:** 🚧 Em desenvolvimento
 
 ➡️ [Ver Projeto Supermercado](https://github.com/JeffersonSimplicio1/Projeto-Supermercado)
+
+
+## 🤝 Vamos nos conectar?
+
+Estou aberto a oportunidades na área de tecnologia, especialmente em **Desenvolvimento Back-End**.
+
+<a href="https://www.linkedin.com/in/jefferson-simplicio1">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:Jeffersonaimplicio@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
