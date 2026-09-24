@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá! Eu sou Jefferson Simplicio 👋
 
-<!--
-**JeffersonSimplicio1/JeffersonSimplicio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Back-End | Python • MySQL • Java
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no último período da graduação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho direcionado meus estudos para desenvolvimento Back-End, principalmente com **Python e MySQL**, aplicando conceitos de **Programação Orientada a Objetos, arquitetura em camadas e testes unitários**.
+
+Atualmente estou desenvolvendo um **Sistema de Gerenciamento de Supermercado**, projeto no qual venho colocando em prática esses conhecimentos e evoluindo gradualmente sua arquitetura e funcionalidades.
+
+🎯 **Objetivo:** conquistar minha primeira oportunidade profissional na área de tecnologia e continuar evoluindo como desenvolvedor.
+
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Back-End
+<img src="https://skillicons.dev/icons?i=python,java" />
+
+### Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### Desenvolvimento Web
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+
+### Ferramentas & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,aws" />
+
+## ⭐ Projeto em Destaque
+
+### 🛒 Sistema de Gerenciamento de Supermercado
+
+Sistema Back-End desenvolvido em **Python e MySQL**, criado para aplicar na prática conceitos de Programação Orientada a Objetos, arquitetura em camadas e testes unitários.
+
+**Principais conceitos aplicados:**
+
+- 🐍 Python e Programação Orientada a Objetos
+- 🗄️ Persistência de dados com MySQL
+- 🏗️ Separação entre Service e Repository
+- 🧪 Testes unitários com `unittest` e `unittest.mock`
+- ✅ Validações e regras de negócio
+- 🔎 Operações de cadastro, busca, atualização e exclusão
+- 🌿 Versionamento com Git e GitHub
+
+**Status:** 🚧 Em desenvolvimento
+
+➡️ [Ver Projeto Supermercado](https://github.com/JeffersonSimplicio1/Projeto-Supermercado)
